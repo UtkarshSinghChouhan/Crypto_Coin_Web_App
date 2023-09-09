@@ -7,10 +7,10 @@ You can access the deployed version of this web app here: [Crypto Coin Web App](
 
 ## 🖼️ Screenshots:
 
-  Screenshot 1
-Caption for Screenshot 1
+![Screenshot 1](https://raw.githubusercontent.com/UtkarshSinghChouhan/Crypto_Coin_Web_App/master/screen-shots/Crytp-app-screenshot-01.png)
 
-  Screenshot 2
+
+![Screenshot 2](https://raw.githubusercontent.com/UtkarshSinghChouhan/Crypto_Coin_Web_App/master/screen-shots/Crypto-app-screenshot-02.png)
 
 ## 🛠️ Technologies Used
 
