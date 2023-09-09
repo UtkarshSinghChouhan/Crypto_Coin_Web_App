@@ -21,6 +21,15 @@ This project is built using the following technologies and libraries:
 - Material-UI Version 4
 - Chart.js
 
+## 📊 Usage
+Once the application is running, you can:
+  View real-time information about various cryptocurrencies.
+  Explore changes in the value of a particular coin represented in graphs.
+  Customize and interact with the user-friendly interface.
+
+## 🙏 Credits
+  Developed by Utkarsh Singh Chouhan
+
 ## 📥 Installation
 
 To run this project locally, follow these steps:
@@ -31,11 +40,4 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/your-crypto-app.git
 
 
-📊 Usage
-Once the application is running, you can:
-  View real-time information about various cryptocurrencies.
-  Explore changes in the value of a particular coin represented in graphs.
-  Customize and interact with the user-friendly interface.
 
-🙏 Credits
-  Developed by Utkarsh Singh Chouhan
