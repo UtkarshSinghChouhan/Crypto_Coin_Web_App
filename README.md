@@ -22,13 +22,15 @@ This project is built using the following technologies and libraries:
 - Chart.js
 
 ## 📊 Usage
+
 Once the application is running, you can:
-  View real-time information about various cryptocurrencies.
-  Explore changes in the value of a particular coin represented in graphs.
-  Customize and interact with the user-friendly interface.
+
+-View real-time information about various cryptocurrencies.
+-Explore changes in the value of a particular coin represented in graphs.
+-Customize and interact with the user-friendly interface.
 
 ## 🙏 Credits
-  Developed by Utkarsh Singh Chouhan
+-Developed by Utkarsh Singh Chouhan
 
 ## 📥 Installation
 
